@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Defaults layout_margins -->
+    <dimen name="margin_left_right">24dp</dimen>
+    <dimen name="margin_top_bottom">16dp</dimen>
+    <dimen name="margin_bottom">32dp</dimen>
+    <dimen name="bottom_buttom">8dp</dimen>
+    <dimen name="bottom_text">24dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="one">1dp</dimen>
+
+    <!-- Defaults paddings -->
+    <dimen name="padding">4dp</dimen>
+
+    <!-- Defaults text settings -->
+    <dimen name="textsize">14sp</dimen>
+    <dimen name="textsize_large">56sp</dimen>
+
+    <!-- Defaults that can not be created -->
+    <!--    weightings settings -->
+    <!--    alpha channel (opacity) settings -->
+    <!--    text colours -->
+</resources>

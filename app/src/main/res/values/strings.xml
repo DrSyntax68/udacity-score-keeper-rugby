@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeperRugby</string>
+    <string name="teama">Home</string>
+    <string name="teamb">Away</string>
+    <string name="score0">0</string>
+    <string name="try_score">Try</string>
+    <string name="conversion">Conversion</string>
+    <string name="dropgoal">Drop Goal</string>
+    <string name="penalty">Penalty</string>
+    <string name="reset">Reset</string>
+    <string name="image1">This is a background image of a ruby ball</string>
+</resources>
